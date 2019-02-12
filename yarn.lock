@@ -9152,10 +9152,10 @@ styled-components@^4.1.3:
     stylis-rule-sheet "^0.0.10"
     supports-color "^5.5.0"
 
-styled-svg@^2.3.0:
-  version "2.3.0"
-  resolved "https://registry.yarnpkg.com/styled-svg/-/styled-svg-2.3.0.tgz#af650a530e30a93e3b65f9073b937ca0da75ec20"
-  integrity sha512-QTDQAeG2mqpxLXjoZAciBOedsu/UjO7le6OPqXWiNYPLt6HrmBlcQkSoHehYWuuJznuiij1cKQNgRmVkHR+B6w==
+styled-svg@^2.3.2:
+  version "2.3.2"
+  resolved "https://registry.yarnpkg.com/styled-svg/-/styled-svg-2.3.2.tgz#0f5676f7ad2aba44ee464f178474ec4d46db3321"
+  integrity sha512-ejdew0bqktKcczlQUlFzb1zdXxvi6lLEBKIf9fu8xRWA/iNrE3t7YjftpC/ApCw6iDOUFXI64Ejos+z5wx7eNw==
   dependencies:
     command-line-args "^5.0.2"
     command-line-usage "^5.0.4"
